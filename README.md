@@ -8,7 +8,7 @@ Include Components for 1C Ent 8.x
 
 ---
 
-Created by NOP PUP (Novatuoria Original Project - Proper Universal Performance)
+Created by NOP PUP (Novatuoria Original Project - Proper Universal Performance)  
 Bye-bye! :)
 
 Copyright © 2026 Alexandra Mikhailova. All rights reserved. Distributed under the MIT License.
