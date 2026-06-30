@@ -1,4 +1,4 @@
-# NOP API Incompent
+# NOP API InCompEnt
 Internal Components for 1C Ent 8.x
 
 ---
