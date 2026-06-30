@@ -1,10 +1,7 @@
 # NOP API Incompent
-Include Components for 1C Ent 8.x
+Internal Components for 1C Ent 8.x
 
 ---
-
-Текущий состав:
-* `1С Виджет` - Внешняя обработка создающая виджет для рабочего стола средствами Win32 API через динамически подключаемую DLL
 
 ---
 
