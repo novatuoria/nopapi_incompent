@@ -1,15 +1,25 @@
-# NOP API InCompEnt
-Internal Components for 1C Ent 8.x
+# NOP API: InCompEnt
+> **Internal Components for 1C:Enterprise 8.x (NativeAPI / C++ / Win32)**
+
+Здесь публикуются исходные коды MVP-проектов — внешних компонент для платформы «1С:Предприятие 8», созданных на стыке низкоуровневого системного программирования и NativeAPI.
+> [!WARNING] 
+> Все решения в данном репозитории публикуются в демонстрационных целях «как есть». Бесплатных обновлений и поддержки не будет.
 
 ---
 
-Состав репозитория:
+## Состав репозитория
 
-`NOP PUP InCompEnt: WindowWidget` - Внешняя компонента для платформы 1С:Предприятие 8, созданная по технологии NativeAPI для вывода Win32 окна.
+* **[InComPent WindowWidget](./InComPent%20WindowWidget)** — Внешняя компонента для вывода независимого графического Win32-окна поверх интерфейса 1С. 
 
 ---
 
-Created by NOP PUP (Novatuoria Original Project - Proper Universal Performance)  
-Bye-bye! :)
+## Коммерческое сотрудничество
 
-Copyright © 2026 Alexandra Mikhailova. All rights reserved.
+По вопросам сотрудничества или приобретения расширенных коммерческих версий решений (**NOP PUP**):
+
+* **Telegram:** [@nop_api](https://t.me/nop_api)
+* **ВКонтакте:** [@nop_api](https://vk.com/nop_api)
+
+---
+*Created by NOP PUP (Novatuoria Original Project — Proper Universal Performances)*
+*Copyright © 2026 Alexandra Mikhailova. All rights reserved.*
