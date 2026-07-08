@@ -1,0 +1,5 @@
+﻿LIBRARY NOPAPI_Widget_InCompEnt
+EXPORTS
+    GetClassObject
+    DestroyObject
+    GetClassNames
